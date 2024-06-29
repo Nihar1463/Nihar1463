@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http://www.linkedin.com/in/dishantpatel2782">
+<a href="https://www.linkedin.com/in/niharbijva146">
 <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />  
 </a>
 </p>
